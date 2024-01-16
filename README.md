@@ -1,1 +1,1 @@
-# Forest-Cover-Change-Detetctiion-of-Sahyandri-Ranges
+# Forest-Cover-Change-Detection-of-Sahyandri-Ranges
